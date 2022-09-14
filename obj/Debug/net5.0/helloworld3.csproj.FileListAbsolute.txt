@@ -1,0 +1,16 @@
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\bin\Debug\net5.0\helloworld3.exe
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\bin\Debug\net5.0\helloworld3.deps.json
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\bin\Debug\net5.0\helloworld3.runtimeconfig.json
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\bin\Debug\net5.0\helloworld3.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\bin\Debug\net5.0\helloworld3.dll
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\bin\Debug\net5.0\ref\helloworld3.dll
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\bin\Debug\net5.0\helloworld3.pdb
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.dll
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\ref\helloworld3.dll
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.pdb
+C:\Users\olive\OneDrive\Dokumenter\helloworld3\obj\Debug\net5.0\helloworld3.genruntimeconfig.cache
